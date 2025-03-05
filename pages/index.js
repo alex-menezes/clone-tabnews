@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Vasco da Gama ◤✠◢ foi de base</h1>
+    return <h1>Vasco da Gama ◤✠◢</h1>
 }
 
 export default Home;
